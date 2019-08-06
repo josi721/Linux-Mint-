@@ -1,2 +1,2 @@
-# Linux-Mint-
-kkkkkkkkkkj
+# Linux-Mint
+conhecendo0 Bash e Shell
