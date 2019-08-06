@@ -10,3 +10,16 @@ mkdir criar diretório
 ls mostra o diretório
 TAB AUTO COMPLEMETO
 sudo super usuário
+echo repetição  
+git clone caminho do projeto
+touch cria arquivos
+cat lista de conteudos 
+cat -n contra linha 
+head lista de conteudo dos arquivos
+head - 20 mostra até a linha 20
+tail mostra o roda pe
+tail 20 -n mostra as 20 ultimas linhas 
+less le o conetúdo 
+q sair
+| filtrar 
+cat -n LICENSE TAIL  sai de um arquivo pra entrar em outro
